@@ -150,12 +150,6 @@ virtualEnvironment/bin/pip3.8
 virtualEnvironment/bin/python
 virtualEnvironment/bin/python3
 virtualEnvironment/bin/sqlformat
-virtualEnvironment/myLife/manage.py
-virtualEnvironment/myLife/myLife/__init__.py
-virtualEnvironment/myLife/myLife/asgi.py
-virtualEnvironment/myLife/myLife/settings.py
-virtualEnvironment/myLife/myLife/urls.py
-virtualEnvironment/myLife/myLife/wsgi.py
 virtualEnvironment/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl
 virtualEnvironment/share/python-wheels/CacheControl-0.12.6-py2.py3-none-any.whl
 virtualEnvironment/share/python-wheels/certifi-2019.11.28-py2.py3-none-any.whl
